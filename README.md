@@ -17,7 +17,6 @@
 - Locations in the center and around the perimeter of the screen are supported.
 - Loader notifications.
 - Several styles.
-- Displays the notification in a static area.
 - Ability to change the appearance using styles.
 ----------
 ### О плагине ###
@@ -37,5 +36,4 @@
 - Поддерживаются расположения в центре и по периметру экрана
 - Уведомления загрузчика.
 - Несколько стилей.
-- Вывод уведомления в статичную область.
 - Возможность изменения внешнего вида с помощью стилей.
