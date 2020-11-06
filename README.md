@@ -2,7 +2,7 @@
 # Notific #
 ### About ###
 - **Description:** this is a jQuery plugin that helps you display notifications on your site.
-- **Links Author:** [Site](http://webarion.ru "Site"), [Mirror](http://f91974ik.bget.ru "Mirror")
+- **Links:** [Site](http://webarion.ru "Site"), [Mirror](http://f91974ik.bget.ru "Mirror")
 - **Demo:** [Notific](http://webarion.ru/_products/jquery_notific_plugin/ "Notific"), [Mirror](http://f91974ik.bget.ru/_products/jquery_notific_plugin/ "Mirror")
 
 **Supports several types of notifications:**
@@ -21,8 +21,8 @@
 - Ability to change the appearance using styles.
 ----------
 ### О плагине ###
-- **Description:** это jQuery плагин помогающий показывать уведомления на вашем сайте.
-- **Links Author:** [Сайт](http://webarion.ru "Сайт"), [Зеркало](http://f91974ik.bget.ru "Зеркало")
+- **Описание:** это jQuery плагин помогающий показывать уведомления на вашем сайте.
+- **Ссылки:** [Сайт](http://webarion.ru "Сайт"), [Зеркало](http://f91974ik.bget.ru "Зеркало")
 - **Демонстрация:** [Notific](http://webarion.ru/_products/jquery_notific_plugin/ "Notific"), [Зеркало](http://f91974ik.bget.ru/_products/jquery_notific_plugin/ "Зеркало")
 
 **Поддерживает несколько видов уведомлений:**
